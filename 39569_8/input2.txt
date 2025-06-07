@@ -1,0 +1,3 @@
+float multiplicar() {
+  return 3 * 2;
+}
